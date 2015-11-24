@@ -1,3 +1,6 @@
+travis-playground [![Build Status](https://travis-ci.org/ProfessorKaos64/hid-retrobit.svg?branch=master)](https://travis-ci.org/ProfessorKaos64/hid-retrobit)
+=================
+
 hid-retrobit is a Linux driver for the retro-bit (sometimes called Retro Link) Atari, 
 Nintendo NES, SNES & Sega Genesis joystick and gamepad controller adapters. 
 It allows the use of actual compatible devices in emulators.
