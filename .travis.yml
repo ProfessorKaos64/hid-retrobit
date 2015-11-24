@@ -1,3 +1,2 @@
 language: C
-compiler:
-  - gcc
+make hid-retrobit.c
