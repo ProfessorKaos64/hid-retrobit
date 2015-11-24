@@ -1,2 +1,2 @@
 language: C
-make hid-retrobit.c
+script: make hid-retrobit.c
