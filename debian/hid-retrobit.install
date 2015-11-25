@@ -1,3 +1,7 @@
-99-hid-retrobit.rules debian/tmp/etc/udev/rules.d/
-hid-retrobit.conf debian/tmp/etc/modules-load.d/
-dkms.conf debian/tmp/
+99-hid-retrobit.rules /etc/udev/rules.d/
+hid-retrobit.conf /etc/modules-load.d/
+DETAILS.md /usr/src/hid-retrobit-1.0.0/
+dkms.conf /usr/src/hid-retrobit-1.0.0/
+hid-retrobit.c /usr/src/hid-retrobit-1.0.0/
+Makefile /usr/src/hid-retrobit-1.0.0/
+README.md /usr/src/hid-retrobit-1.0.0/
